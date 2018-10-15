@@ -1,0 +1,13 @@
+*.h5
+*.txt
+/mono
+/lab
+/gen
+/cn_songs
+/cn_gen
+/Python-Wrapper-for-World-Vocoder
+/.idea
+*.lab
+*.raw
+/venv
+/keras-wavenet
